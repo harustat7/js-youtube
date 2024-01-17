@@ -13,3 +13,14 @@ const gameName = new String('hitesh')
 
 console.log(gameName[0]);
 console.log(gameName.__proto__);
+
+//string objects
+
+//for length of string
+console.log(gameName.length);
+
+//for converting string to uppercase in terminal
+console.log(gameName.toUpperCase());
+
+//for finding character at a specific place
+console.log(gameName.charAt(2));
