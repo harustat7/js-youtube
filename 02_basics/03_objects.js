@@ -1,4 +1,5 @@
 // singleton-like literals then cannot be formed but if used as constructors then singleton
+//other way is using constructors
 
 //object literals(way1)
 //using keys and values
