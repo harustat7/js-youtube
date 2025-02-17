@@ -7,6 +7,8 @@ const myArr2 = new Array(1,2,3,4)
 /*
 console.log(myArr[1]);
 
+// shallow copy->same reference point
+//deep copy->different reference point
 
 //array methods
 myArr.push(6)
