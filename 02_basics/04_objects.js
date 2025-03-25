@@ -39,7 +39,7 @@ console.log(obj4);
 const obj5 = {...obj1, ...obj2}
 console.log(obj5);
 
-//combining of objects in the form of arrays
+//combining of objects in the form of arrays (when data is coming from databases)
 const users = [
     {
         id: 1,
