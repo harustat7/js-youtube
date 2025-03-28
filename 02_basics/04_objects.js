@@ -86,13 +86,15 @@ console.log(instructor);
 
 //in react
 
-const navbar = ({company) =>{
+const navbar = ({company}) =>{
 
 }
 
 navbar(company = "hitesh")
 
-//APIS
+//APIS->apna kaam kisi aur ke sir pe thopna
+//or
+//values coming from backend are APIS 
 
 //formation of apis by JSON in the form of objects
 // {
