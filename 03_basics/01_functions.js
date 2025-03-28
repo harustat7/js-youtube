@@ -50,7 +50,7 @@ console.log(loginusermessage())//undefined
 
 function loginusermessage(username="sam")//by default sam value
 {
-    if(username ==undefined) //(!username)
+    if(username === undefined) //(!username)
         {
             console.log("please enter a unsername");
             return
