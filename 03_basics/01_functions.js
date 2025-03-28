@@ -45,6 +45,7 @@ function loginusermessage(username){
 
 console.log(loginusermessage("hitesh"))
 console.log(loginusermessage())//undefined
+// consoling a value from a function and returning a value are 2 diff things
 
 
 function loginusermessage(username="sam")//by default sam value
