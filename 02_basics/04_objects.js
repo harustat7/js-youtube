@@ -86,7 +86,7 @@ console.log(instructor);
 
 //in react
 
-const navbar = () =>{
+const navbar = ({company) =>{
 
 }
 
