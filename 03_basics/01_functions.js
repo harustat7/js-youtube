@@ -16,7 +16,7 @@ function addtwonumbers(number1,number2){
     console.log(number1+number2);
 
 }
-//values when taken to declare functions are called parameters
+//values when taken to declare or define functions are called parameters
 //values when taken when function is called are arguments
 
 addtwonumbers(3,2)
