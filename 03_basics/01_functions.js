@@ -80,10 +80,15 @@ const user={
 }
 
 function handleobject(anyobject){
-    console.log(`username is ${anyobject.username} and price is ${anyobject.prices}`)
+    console.log(`username is ${anyobject.username} and price is ${anyobject.price}`)
 
 }
 
+//error
+function handleobject(anyobject){
+    console.log(`username is ${anyobject.username} and price is ${anyobject.prices}`)
+
+}
 handleobject(user)
 
 handleobject({
