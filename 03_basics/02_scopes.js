@@ -9,7 +9,9 @@ console.log(b);
 console.log(c);
 */
 
+// global scope
 if(true){
+    // block scope
     let a=10
     const b =20
     var c=30
@@ -21,4 +23,4 @@ if(true){
 //console.log(b);
 console.log(c);//shouldn"t print value outside the scope
 
-//global scope is different in inspect section and when we declare in javascript
+//global scope is different in inspect console section and when we declare in javascript using node
